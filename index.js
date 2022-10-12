@@ -21,7 +21,7 @@ const empregados = [
     salario: 0,
   },
   {
-    nome: 'Lucas Oliveira',
+    nome: 'Lucas Silva',
     funcao: 'Representante Comercial',
     salario: 4500,
   },
